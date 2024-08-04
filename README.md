@@ -27,8 +27,7 @@ This is a to do app using javascript DOM.
 
 # Installation
 
-No installation is required for this web application. Simply access the WeatherSense through your web browser from the link --link nikitaadhikariii.github.io/CODTECH-To-Do-App-PROJECT/
-
+No installation is required for this web application. Simply access the WeatherSense through your web browser from the link --link https://nikitaadhikariii.github.io/CODTECH-To-Do-App-PRO
 # Contributions
 
 Contributions to to-do app project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request 
