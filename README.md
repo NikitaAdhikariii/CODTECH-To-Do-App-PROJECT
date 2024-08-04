@@ -20,7 +20,7 @@ This is a to do app using javascript DOM.
 - JavaScript
 - Bootstrap
 
-- #Features
+#Features
 - Adding Tasks: Users can input tasks in the provided text field and add them to the list.
 
 -Marking Tasks as Completed: Users can mark tasks as completed by clicking on them. Completed tasks are visually indicated by a line-through style.
